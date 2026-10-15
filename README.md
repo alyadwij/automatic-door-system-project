@@ -21,17 +21,17 @@ The project incorporates external interrupts, timers and counters, SysTick-based
 
 ## System Diagram
 <p align="center">
-  <img src="docs/diagram-sistem.png" height="500">
+  <img src="docs/diagram-sistem.png" height="300">
 </p>
 
 ## Wiring
 <p align="center">
-  <img src="assets/wiring.png" height="500">
+  <img src="assets/wiring.png" height="300">
 </p>
 
 ## How it Works
 <p align="center">
-  <img src="docs/flow.png" height="500">
+  <img src="docs/flow.png" height="300">
 </p>
 
 ## Demo
