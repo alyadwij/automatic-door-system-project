@@ -20,13 +20,19 @@ The project incorporates external interrupts, timers and counters, SysTick-based
 3. Hardware Components: Micro Servo MG90S, Ultrasonic Sensor HC-SR04, IR Sensor, Buzzer
 
 ## System Diagram
-![System Diagram](docs/diagram-sistem.png)
+<p align="center">
+  <img src="docs/diagram-sistem.png" width="300" height="500">
+</p>
 
 ## Wiring
-![Wiring](assets/wiring.png)
+<p align="center">
+  <img src="assets/wiring.png" width="300" height="500">
+</p>
 
 ## How it Works
-![FLowchart](docs/flow.png)
+<p align="center">
+  <img src="docs/flow.png" height="500">
+</p>
 
 ## Demo
 **Link:** ![Video Demonstration](docs/demo.mp4)
