@@ -32,7 +32,7 @@ The project incorporates external interrupts, timers and counters, SysTick-based
 **Link:** ![Video Demonstration](docs/demo.mp4)
 
 ## Project Report
-![Report](docs/report.pdf)
+**Link:** ![Report](docs/report.pdf)
 
 ## My Contribution
 Played a major role in the firmware implementation of the automatic door system, with responsibilities including:
